@@ -1,0 +1,23 @@
+img{
+    width: 100px;
+}
+
+li{
+    display: flex;
+    gap: 20px;
+    margin: 30px;
+    background-color: beige;
+    padding: 20px;
+}
+
+h1,h4{
+    color: rgb(219, 44, 102);
+}
+
+p{
+    color: palevioletred;
+}
+
+a{
+    color:rgb(233, 139, 155)
+}
